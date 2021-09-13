@@ -1,0 +1,39 @@
+.submit-area{
+    margin: 100px;
+    padding: 50px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+#logo{
+    margin: 5% 45%;
+    width: 10%;
+}
+#info-area{
+    display: none;
+}
+.new_member{
+    background-color: indigo;
+    border: 1px splid black;
+
+}
+.left{
+    background-color: gold;
+    border: 1px splid black;
+
+}
+.total{
+    background-color: orange;
+    border: 1px splid black;
+  
+}
+.status{
+    color: white;
+    margin: 0px 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#section_one{
+    margin: 20px;
+
+}
